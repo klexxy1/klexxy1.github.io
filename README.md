@@ -24,9 +24,9 @@
     <div class="products">
         <h2>Products</h2>
         <ul>
-            <li>Product 1</li>
-            <li>Product 2</li>
-            <li>Product 3</li>
+            <li>Product 1 <img src="product1.jpg"/></li>
+            <li>Product 2 <img src="product2.jpg"/></li>
+            <li>Product 3 <img src="product3.jpg"/></li>
         </ul>
     </div>
 </body>
